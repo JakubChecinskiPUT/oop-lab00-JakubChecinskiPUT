@@ -10,11 +10,11 @@
 
 ## Uruchomienie lokalne
 Wynik programu C++:
-```text
+```Hello from C++! Author: Jakub Checinski
 ...
 ```
 Wynik programu Java:
-```text
+```Hello from Java! Author: Jakub Checinski
 ...
 ```
  
